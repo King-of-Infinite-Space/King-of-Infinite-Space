@@ -12,5 +12,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://king-of-infinite-space.github.io/feed.atom"
-          template: "- [$title]($url) ($date)$newline"
-          date_format: "yy-m-d"
