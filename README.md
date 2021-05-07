@@ -5,7 +5,8 @@
 - [广场上的鸽子](https://King-of-Infinite-Space.github.io/posts/2021-03-广场上的鸽子.html)
 - [仿生人会摊电子饼吗？📱](https://King-of-Infinite-Space.github.io/posts/2021-01-仿生人会摊电子饼吗.html)
 - [无题](https://King-of-Infinite-Space.github.io/posts/2020-12-无题.html)
-<!-- BLOG-POST-LIST:END -->- [...](https://King-of-Infinite-Space.github.io)
+- [...](https://King-of-Infinite-Space.github.io)
+<!-- BLOG-POST-LIST:END --> 
 
 
 　<!-- spacing -->
