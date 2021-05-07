@@ -1,4 +1,4 @@
-### Latest Blog posts
+#### Latest [blog posts](https://King-of-Infinite-Space.github.io)
 <!-- BLOG-POST-LIST:START -->
 - [子曰诗云](https://King-of-Infinite-Space.github.io/posts/2021-03-子曰诗云.html)
 - [皮肤vs油田](https://King-of-Infinite-Space.github.io/posts/2021-03-皮肤vs油田.html)
