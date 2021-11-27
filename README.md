@@ -1,10 +1,10 @@
 #### Latest [blog posts](https://King-of-Infinite-Space.github.io)
 <!-- BLOG-POST-LIST:START -->
+- [三国杀囤牌组合](https://King-of-Infinite-Space.github.io/posts/202111-三国杀囤牌组合.html)
 - [几句旋律](https://King-of-Infinite-Space.github.io/posts/202111-几句旋律.html)
 - [秋日绝句](https://King-of-Infinite-Space.github.io/posts/202111-秋日绝句.html)
 - [好脾气的琴键](https://King-of-Infinite-Space.github.io/posts/202110-好脾气的琴键.html)
 - [清明上河图](https://King-of-Infinite-Space.github.io/posts/202110-清明上河图.html)
-- [或许应该去公园](https://King-of-Infinite-Space.github.io/posts/202109-或许应该去公园.html)
 <!-- BLOG-POST-LIST:END --> 
 
 
