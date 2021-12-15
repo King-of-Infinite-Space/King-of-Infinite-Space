@@ -1,10 +1,10 @@
 #### Latest [blog posts](https://King-of-Infinite-Space.github.io)
 <!-- BLOG-POST-LIST:START -->
+- [欧冠16强乌龙抽签](https://King-of-Infinite-Space.github.io/posts/202112-欧冠16强乌龙抽签.html)
 - [越洋购机记](https://King-of-Infinite-Space.github.io/posts/202111-越洋购机记.html)
 - [三国杀囤牌组合](https://King-of-Infinite-Space.github.io/posts/202111-三国杀囤牌组合.html)
 - [几句旋律](https://King-of-Infinite-Space.github.io/posts/202111-几句旋律.html)
 - [秋日绝句](https://King-of-Infinite-Space.github.io/posts/202111-秋日绝句.html)
-- [好脾气的琴键](https://King-of-Infinite-Space.github.io/posts/202110-好脾气的琴键.html)
 <!-- BLOG-POST-LIST:END --> 
 
 
