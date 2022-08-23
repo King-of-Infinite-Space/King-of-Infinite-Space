@@ -1,6 +1,6 @@
 #### Latest [blog posts](https://King-of-Infinite-Space.github.io)
 <!-- BLOG-POST-LIST:START -->
-- [TensorFlow on Navi10 折腾记](https://King-of-Infinite-Space.github.io/posts/202208-tensorflow-on-navi10-折腾记.html)
+- [TensorFlow on Navi10折腾记](https://King-of-Infinite-Space.github.io/posts/202208-tensorflow-on-navi10折腾记.html)
 - [映像 / Reflections &lpar;试译&rpar;](https://King-of-Infinite-Space.github.io/posts/202207-映像-reflections-试译.html)
 - [互为妹夫？汉语里的对称称呼](https://King-of-Infinite-Space.github.io/posts/202204-互为妹夫汉语里的对称称呼.html)
 - [给原神璃月人物起名](https://King-of-Infinite-Space.github.io/posts/202202-给原神璃月人物起名.html)
