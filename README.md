@@ -16,3 +16,5 @@ becoming a pan-dimensional being
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-of-Infinite-Space&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src='https://count.lnfinite.space/repo/profile.svg?plus=1' width='0' height='0' />
