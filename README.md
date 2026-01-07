@@ -8,10 +8,9 @@
 - [七绝 for Andrés](https://github.com/King-of-Infinite-Space/thoughts/discussions/206) (2024-10)<!-- BLOG-POST-LIST:END --> 
 - ...... (more in [discussions](https://github.com/King-of-Infinite-Space/thoughts/discussions/categories/%E5%8D%9A%E6%96%87?discussions_q=category%3A%E5%8D%9A%E6%96%87+sort%3Adate_created) or [blog](http://blog.lnfinite.space/) or [feed](https://blog.lnfinite.space/feed))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-of-Infinite-Space&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-> 这是什么精神？这是国际主义的精神，这是共产主义的精神。每一个互联网用户都要学习这种精神。
 
 > just a hobby, won't be big and professional
+
+> 这是什么精神？这是国际主义的精神，这是共产主义的精神。每一个互联网用户都要学习这种精神。
 
 <img src='https://count.lnfinite.space/repo/profile.svg?plus=1' width='0' height='0' />
