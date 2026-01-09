@@ -5,7 +5,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [猫头鹰头猫](https://github.com/King-of-Infinite-Space/thoughts/discussions/208) (2025-12)
 - [语言速率](https://github.com/King-of-Infinite-Space/thoughts/discussions/207) (2025-05)
-- [七绝 for Andrés](https://github.com/King-of-Infinite-Space/thoughts/discussions/206) (2024-10)<!-- BLOG-POST-LIST:END --> 
+- [七绝 for Andrés](https://github.com/King-of-Infinite-Space/thoughts/discussions/206) (2024-10)
+- [&quot;Cosmos Compressed&quot;](https://github.com/King-of-Infinite-Space/thoughts/discussions/205) (2024-02)<!-- BLOG-POST-LIST:END --> 
 - ...... (more in [discussions](https://github.com/King-of-Infinite-Space/thoughts/discussions/categories/%E5%8D%9A%E6%96%87?discussions_q=category%3A%E5%8D%9A%E6%96%87+sort%3Adate_created) or [blog](http://blog.lnfinite.space/) or [feed](https://blog.lnfinite.space/feed))
 
 
